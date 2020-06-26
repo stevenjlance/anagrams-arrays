@@ -12,7 +12,6 @@ let anagrams = ["plots", "post", "stop", "puts", "tops"]
 
 
 
-
 // 2. Print out the length of the list
 
 
@@ -35,6 +34,12 @@ let anagrams = ["plots", "post", "stop", "puts", "tops"]
 
 
 // 6. Put the final array of anagrams in alphabetical order.
+
+
+
+
+// 6. Put the final array of anagrams in alphabetical order.
+
 
 
 
