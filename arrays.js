@@ -11,7 +11,9 @@ let anagrams = ["plots", "post", "stop", "puts", "tops"]
 
 
 
+
 // 2. Print out the length of the list
+
 
 
 
@@ -31,14 +33,17 @@ let anagrams = ["plots", "post", "stop", "puts", "tops"]
 
 
 
+// 6. Put the final array of anagrams in alphabetical order.
+
+
 
 
 // 6. Put the final array of anagrams in alphabetical order.
 
 
 
-// This code prints the array after you've manipulated it above.
-console.log(anagrams)
+
+
 
 // Before moving on to level 2, you will probably want to comment it out. 
 
@@ -54,9 +59,7 @@ console.log(anagrams)
 
 
 
-
 // 8. This array is huge, so it'd be helpful to know how many fortunes are listed. Find a way to print out the number of fortunes in the array.
-
 
 
 
