@@ -61,13 +61,22 @@ console.log(anagrams)
 
 
 
-// 9. Print out a random fortune from the array.
+// 9. Sort the array alphabetically. If correct, your fortunes lists should print out with values starting at "A beautiful, smart, and loving person will be coming into your life." and ending with "Welcome” is a powerful word."
+
+
+
+// 10. Print out the message "Hello your fortune today is _____________" for the 27th and 99th fortune on the list.
+
+
+
+
+// 11. CHALLENGE: Print out a random fortune from the array.
 
 
 
 
 
 
-// 10. Challenge: Out of all the fotunes that are there, it'd mess up the program if some were listed twice, but with a array that big, it could happen.
+// 12. DOUBLE SUPER BONUS CHALLENGE: Out of all the fotunes that are there, it'd mess up the program if some were listed twice, but with a array that big, it could happen.
 // Find a way to check and see whether any of the fortunes are duplicates. If so, find a way to delete those duplicates.
 
